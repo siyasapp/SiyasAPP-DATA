@@ -1,1 +1,37 @@
-
+[
+  {
+    "title": "AA",
+    "title1": "",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/unsplash_bqe0J0b26RQ%20(1).png"
+  },
+  {
+    "title": "DMM",
+    "title1": "",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/unsplash_bqe0J0b26RQ%20(2).png"
+  },
+  {
+    "title": "E-Devlet",
+    "title1": "https://www.turkiye.gov.tr/",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/MacBook%20Pro%2014_%20-%201.png"
+  },
+  {
+    "title": "CİMER",
+    "title1": "https://www.cimer.gov.tr/",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/MacBook%20Pro%2014_%20-%201%20(1).png"
+  },
+  {
+    "title": "MHRS",
+    "title1": "https://mhrs.gov.tr/vatandas/#/",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/MacBook%20Pro%2014_%20-%201%20(2).png"
+  },
+  {
+    "title": "Parsel Sorgu",
+    "title1": "https://parselsorgu.tkgm.gov.tr/",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/MacBook%20Pro%2014_%20-%201%20(4).png"
+  },
+  {
+    "title": "Sahne XL",
+    "title1": "https://btm.istanbul/form/sahnexl",
+    "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/unsplash_bqe0J0b26RQ%20(2).png"
+  }
+]
