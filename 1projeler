@@ -1358,19 +1358,6 @@ Azami irtifa: 8+ km",
     "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/hisar%20a.jpg"
   },
   {
-    "title": "Hisar-O (+)",
-    "title2": "Milli Teknoloji Hamlesi",
-    "title3": "HİSAR-O (Orta İrtifa Hava Savunma Füze Sistemi), Mercedes-Benz Zetros şasisine monte edilmiş dikey bir lançerden oluşur.
-Asgari menzil: 3 km
-Azami menzil: 25+ km (RF Güdümlü versiyon: 35+ km)
-Asgari irtifa: 50 metre
-Azami irtifa: 15 km
-Mach hızı: Mach 2",
-    "title4": "",
-    "title5": "Tamamlanan Proje",
-    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/hisar%20o.jpg"
-  },
-  {
     "title": "Yenilenebilir Enerji GES Projesi",
     "title2": "Arnavutköy Belediye Başkanı - Ahmet Haşim Baltacı",
     "title3": "Güneş Enerjisi Uygulamalarının Geliştirilmesi Projesi kapsamında, 2022 yılında Ulaşım Hizmetleri Binasında; 63.72 MWh elektrik üretilmiştir. Tesisin kapasitesi 100 KW gücüne çıkartılmıştır. 2 megawatt toplam güç için 5 farklı noktada projelendirilme işlemleri yapılmıştır.",
@@ -1410,6 +1397,19 @@ Toplam Alan: 12.000 m2",
     "title4": "",
     "title5": "Devam Eden Proje",
     "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/pd2.jpg"
+  },
+  {
+    "title": "Hisar-O (+)",
+    "title2": "Milli Teknoloji Hamlesi",
+    "title3": "HİSAR-O (Orta İrtifa Hava Savunma Füze Sistemi), Mercedes-Benz Zetros şasisine monte edilmiş dikey bir lançerden oluşur.
+Asgari menzil: 3 km
+Azami menzil: 25+ km (RF Güdümlü versiyon: 35+ km)
+Asgari irtifa: 50 metre
+Azami irtifa: 15 km
+Mach hızı: Mach 2",
+    "title4": "",
+    "title5": "Tamamlanan Proje",
+    "imageUrl": "https://raw.githubusercontent.com/eeartificial/icraataga/main/hisar%20o.jpg"
   },
   {
     "title": "Şehir Kütüphanesi ve Tiyatro Binası",
