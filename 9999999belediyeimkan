@@ -1,26 +1,26 @@
 [
   {
     "title": "Arnavutköy Belediyesi",
-    "title2": "Nakdi Yardım",
-    "title4": "https://www.arnavutkoy.bel.tr/hizmet-rehberi/1023/nakdi-yardim",
+    "title1": "Nakdi Yardım",
+    "title2": "https://www.arnavutkoy.bel.tr/hizmet-rehberi/1023/nakdi-yardim",
     "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/nakdiyardim.png"
   },
   {
     "title": "Arnavutköy Belediyesi",
-    "title2": "Sıcak Yemek",
-    "title4": "https://www.arnavutkoy.bel.tr/hizmet-rehberi/1024/sicak-yemek",
+    "title1": "Sıcak Yemek",
+    "title2": "https://www.arnavutkoy.bel.tr/hizmet-rehberi/1024/sicak-yemek",
     "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/sicakyemek.png"
   },
   {
     "title": "Arnavutköy Belediyesi",
-    "title2": "Taziye Yemeği",
-    "title4": "https://www.arnavutkoy.bel.tr/icerik/taziye-yemegi",
+    "title1": "Taziye Yemeği",
+    "title2": "https://www.arnavutkoy.bel.tr/icerik/taziye-yemegi",
     "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/unsplash_bqe0J0b26RQ.png"
   },
   {
     "title": "Arnavutköy Belediyesi",
-    "title2": "Arnavutköy Kart",
-    "title4": "https://www.arnavutkoyasyam.org/sayfa/arnavutkoy-kart-nedir",
+    "title1": "Arnavutköy Kart",
+    "title2": "https://www.arnavutkoyasyam.org/sayfa/arnavutkoy-kart-nedir",
     "imageUrl": "https://raw.githubusercontent.com/siyasapp/veriler/main/unsplash_bqe0J0b26RQ%20(1).png"
   }
 ]
